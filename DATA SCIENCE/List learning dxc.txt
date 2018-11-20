@@ -1,0 +1,8 @@
+1.Predictive Analytics & Big Data
+2. Data Analytics using Power BI: Concepts
+3.AI and ML Solutions with Python: Machine Learning and Data Analytics
+4. The R Language and Big Data Processing
+5. Analytics APIs and Tools
+6. Data Visualization and Predictive Analytics
+7. Data Collection & Exploration
+8. Data Preprocessing
